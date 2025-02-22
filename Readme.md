@@ -14,7 +14,7 @@
 - **Telegram**: @comunay
 - **Telephone**: +89963846503
 - **GitHub**: [https://github.com/crossovka](https://github.com/crossovka)
-- **Email**: [cevyacheslav@gmail.com](mailto:cevyacheslav@gmail.com) (обновите на свой реальный email)
+- **Email**: [cevyacheslav@gmail.com](mailto:cevyacheslav@gmail.com)
 
 ## Скриншоты
 
